@@ -135,10 +135,11 @@ Change `arg == 8` / `arg == 9` in the script if you prefer other G-keys.
 
 ```
 PUBG-LOGITECH-NO-RECOIL/
-├── PUBG-Logitech-No-Recoil.lua   # Main G Hub script
+├── PUBG-Logitech-No-Recoil.lua          # Main G Hub script
 ├── docs/
 │   ├── KEY-BINDINGS.md
-│   └── RECOMMENDED-SETTINGS.md
+│   ├── RECOMMENDED-SETTINGS.md
+│   └── WINDOWS-SERVICES-GAMING-MODE.md  # Optional Windows Services Gaming Mode guide
 ├── LICENSE
 └── README.md
 ```
