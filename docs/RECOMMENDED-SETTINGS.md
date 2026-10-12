@@ -52,6 +52,10 @@ local click = 1  -- LMB only
 local click = 3  -- RMB + LMB together
 ```
 
+## Windows Services Gaming Mode (Optional)
+
+For optional background service optimization during gameplay (temporarily stopping non-essential services like `SysMain` and `Windows Search`, saving the original state, and restoring automatically after closing GameLoop or PUBG), see **[Windows Services Gaming Mode](./WINDOWS-SERVICES-GAMING-MODE.md)**.
+
 ## Disclaimer
 
 Using recoil macros may violate PUBG's terms of service and can result in a ban. Use at your own risk.
